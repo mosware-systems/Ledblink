@@ -1,5 +1,5 @@
-# Ledblink
+# Introduction
 This will setup the clock for led blink..
-Target devices : ARM Cortex M4
 Frequency : 84MHz
-# Uttam
+# Target Device
+This MCU uses ARM Cortex M4.CPU core frequency of this MCU is 84MHz.
